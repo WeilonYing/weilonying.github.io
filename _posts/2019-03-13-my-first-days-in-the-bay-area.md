@@ -3,7 +3,7 @@ layout: post
 title:  "My first days in the Bay Area"
 date:   2019-03-13 17:09:00
 categories: living
-tags:
+tags: 
 image: /assets/article_images/2019-03-13-my-first-days-in-the-bay-area/desktop.jpg
 ---
 
