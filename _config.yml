@@ -27,6 +27,7 @@ url: "https://blog.whale.moe" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: ''
+instagram_url: 'https://instagram.com/weilonying'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
