@@ -16,7 +16,7 @@ every day until I finally got my shit together and actually write this up.
 But then I had another roadblock. What should I write about?
 
 I mentioned to my girlfriend today that I could probably write about a typical day in my life. She said
-writing about a day in a life of a software engineer is pretty popular nowadays, so I figured why not?.
+writing about a day in a life of a software engineer is pretty popular nowadays, so I figured why not?
 
 So here it is.
 
