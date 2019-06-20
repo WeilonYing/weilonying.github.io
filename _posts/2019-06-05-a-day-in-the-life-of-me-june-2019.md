@@ -8,7 +8,7 @@ image: https://lh3.googleusercontent.com/A4j0WVZldkAsEi1SvKvVwFUMVSxN5z6ibvAXeWQ
 ---
 
 I've been meaning to update my blog again for the past couple of weeks. But I either keep forgetting to or
-I get too busy.
+I get too busy. 
 
 How did I finally get round to it? By setting a reminder on my Google Calendar, and then rescheduling it
 every day until I finally got my shit together and actually write this up.
