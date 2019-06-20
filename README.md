@@ -1,3 +1,6 @@
+# blog.whale.moe / weilonying.github.io
+Blog uses the **mediator** blog theme.
+
 mediator
 ========
 
