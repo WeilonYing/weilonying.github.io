@@ -7,8 +7,6 @@ tags:
 image: https://lh3.googleusercontent.com/y8OQj0on279uX0QLemCsnshsSxQGRoZkfebAkEUoVkUObpvyP_cI7ZJfvFes3mn6MLHR4YSFh2o998ydNchDvD5lDW63hTnZgKEmC94DXGi-s-cKhryATcArvgqK0r6Nze246nyiz94=w3561-h2374-no
 ---
 
-*This page is under construction. But feel free to read what I've written so far.*
-
 Hello! My name is Weilon. I am a UNSW graduate with a double degree in Bachelor of Science (Computer Science)
 and Bachelor of Commerce (Information Systems). I started in 2015, and graduated at the end of 2018.
 
