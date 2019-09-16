@@ -252,8 +252,8 @@ in effort too.
 |--:|:--|
 || Bloody legend  | |
 || Pretty helpful and engaging |
-| ☑️ | Does their job adequately | (calculus lecturer) |
-| ☑️ | Does the bare minimum | (algebra lecturer) |
+| ☑️ | Does their job adequately | (algebra lecturer) |
+| ☑️ | Does the bare minimum | (calculus lecturer) |
 || Wobcke |
 
 &nbsp;
