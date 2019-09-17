@@ -692,7 +692,6 @@ Also the lecturer's cool.
 |--:|:--|
 || Labs/Homework |
 |--:|:--|
-|| *No marked homework, but there are optional tutorial questions if you choose to do them* |
 || Free marks  | |
 | ☑️ | Some effort needed |
 || You'll need to put in several hours per week |
@@ -842,8 +841,8 @@ and conduct user testing.
 |--:|:--|
 || This course speaks to me spiritually  | |
 || Pretty interesting |
-| ☑️ | Enough to make you pay attention | (unfortunately, the lecturer just droned on; it could've been better) |
-|| Dry content |
+|| Enough to make you pay attention | (unfortunately, the lecturer just droned on; it could've been better) |
+| ☑️ | Dry content |
 || Zzzzzzzz... |
 
 &nbsp;
