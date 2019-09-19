@@ -454,7 +454,7 @@ land that dream engineering job 😉.
 
 *Now known as COMP2511 Object-Oriented Design & Programming.*
 
-I did this course in the Semester 1, 2016.
+I did this course in Semester 1, 2016.
 
 Compulsory CSE course. You'll be learning object-oriented programming (OOP) and techniques to
 design and implement complex programs.
@@ -545,7 +545,7 @@ test this kind of knowledge in their interviews.
 ### COMP3411
 **Artificial Intelligence**
 
-I did this course in the Semester 1, 2016.
+I did this course in Semester 1, 2016.
 
 This course is a general overview of Artificial Intelligence, covering several
 areas of the field, including knowledge representation, machine learning and
@@ -633,7 +633,7 @@ areas in greater detail and practicality (e.g. COMP9444 Neural Networks and Deep
 ### COMP2041
 **Software Construction: Techniques and Tools**
 
-I did this course in the Semester 2, 2016.
+I did this course in Semester 2, 2016.
 
 This course teaches you the tools of the trade to make your software development life easier,
 including version control, testing, command line tools and programming for reliability. This course
@@ -722,7 +722,7 @@ want 100%*
 ### COMP3421
 **Computer Graphics**
 
-I did this course in the Semester 2, 2016.
+I did this course in Semester 2, 2016.
 
 This course teaches you the basics of rendering 2D and 3D graphics on a computer, covering the
 fundamentals (e.g. polygons, perspective transformation, lighting) and the theory behind more
@@ -811,7 +811,7 @@ and [MATH1231](#math1231), so take some time to revise on those when you do the 
 ### COMP3511
 **Human Computer Interaction**
 
-I did this course in the Semester 2, 2016.
+I did this course in Semester 2, 2016.
 
 One of the few CSE courses that has no coding at all. Some may argue that
 learning about HCI isn't useful, isn't practical and is just common sense. I disagree. One of
@@ -897,7 +897,7 @@ and conduct user testing.
 ### COMP3331
 **Computer Networks**
 
-I did this course in the Semester 1, 2017. I also tutored for the course in Semester 2, 2018.
+I did this course in Semester 1, 2017. I also tutored for the course in Semester 2, 2018.
 
 This course teaches you how computers interact each other. The course goes through most of the
 network stack, from the application layer (e.g. SMTP, FTP, Bitcoin), to the transport layer
@@ -982,7 +982,7 @@ world.
 
 Extended version of the COMP3121 Algorithms and Programming Techniques course.
 
-I did this course in the Semester 1, 2017.
+I did this course in Semester 1, 2017.
 
 Kind of a spiritual successor to [COMP1927 (or COMP2521)](#comp1927). This course teaches you
 the theory behind computational complexity, and how to implement efficient algorithms. Things
@@ -1056,7 +1056,7 @@ making efficient algorithms, or simply want extra ammo for your programming inte
 ### COMP2121
 **Microprocessors and Interfacing**
 
-I did this course in the Semester 2, 2017.
+I did this course in Semester 2, 2017.
 
 This course takes you into a wild discovery trip into the jungles of microprocessors, circuitry
 and low level programming. We're talking barely above the metal programming here.
@@ -1149,7 +1149,7 @@ looking for something easier.
 ### COMP3231
 **Operating Systems**
 
-I did this course in the Semester 1, 2018.
+I did this course in Semester 1, 2018.
 
 This course covers the fundamentals of how an operating system works, covering process management,
 scheduling, synchronisation, memory management, file systems and security.
@@ -1237,7 +1237,7 @@ engineer.
 ### COMP4920
 **Management and Ethics**
 
-I did this course in the Semester 2, 2018.
+I did this course in Semester 2, 2018.
 
 This is sort of a two-in-one course where it has a management component and an ethics
 component.
