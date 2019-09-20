@@ -46,7 +46,7 @@ the game gets frustrating. Some games that worked really well for us include:
     - Stardew Valley
     - Age of Empires 2
     - Overcooked (1 & 2)
-Minecraft and Portal 2 are also good if both of you are familiar with the gameplay or can handle 
+    - Minecraft and Portal 2 are also good if both of you are familiar with the gameplay or can handle 
 out the learning curve.
 - **Livestream yourself to your partner**. This is a relatively new one and is great if one likes
 to watch the other play games. Discord [Go Live](https://support.discordapp.com/hc/en-us/articles/360030714312-Go-Live-FAQ) 
