@@ -28,6 +28,7 @@ baseurl: ""
 #used to display twitter cards
 twitter_handle: ''
 instagram_url: 'https://instagram.com/weilonying'
+feed: '/feed.xml'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
