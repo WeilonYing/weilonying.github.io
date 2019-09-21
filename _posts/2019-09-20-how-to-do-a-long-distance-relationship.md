@@ -15,6 +15,8 @@ Every LDR couple have their own set of unique circumstances, and you might find 
 worked for us might not work for you. **Above all**, try to keep an open mind and 
 communicate with your partner. Things become easier when you're both on the same page.
 
+**Edit**: Here's my girlfriend's [blog post](https://avalonche.github.io/how-to-do-a-long-distance-relationship)
+
 # Make your partner a priority
 That is not to say to drop everything in your life for them. But make sure you're actively
 and regularly setting time and effort for your partner so they feel like THE important person in your life
