@@ -9,6 +9,7 @@ image: https://lh3.googleusercontent.com/pw/ACtC-3ftRO6xbGVCz_9waWo7OOMR6iiyiq9s
 
 *Cabin fever. Yay!*  
 
+
 Just under a year ago, I shared a [post](https://blog.whale.moe/living/2019/06/05/a-day-in-the-life-of-me-june-2019.html) 
 detailing a typical day in my life as a software engineer. It goes without saying that such a day in my life is no 
 longer as typical, with the COVID-19 pandemic forcing most people in the SF Bay Area to stay at home and wait it out.
