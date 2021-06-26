@@ -6,8 +6,7 @@ plugins:
 # Site settings
 title: "blog.whale"
 description: > # this means to ignore newlines until "email:"
-   A story of my ordinary life.
-   私の日常生活の物語。
+   My life story I guess.
 
 email: weilon@weilonying.com
 #blog logo
